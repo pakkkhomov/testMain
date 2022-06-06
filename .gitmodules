@@ -1,3 +1,3 @@
 [submodule "testSlave"]
 	path = testSlave
-	url = git@github.com:pakkkhomov/testSlave.git
+	url = https://github.com:pakkkhomov/testSlave.git
